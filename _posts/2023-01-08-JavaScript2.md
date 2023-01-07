@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JavaScript 기초2
-date: { { date } }
+date: 2023-01-08
 category: JS
 ---
 
